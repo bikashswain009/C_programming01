@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
   int a,b;
-    printf ("Enter two numbers; ");
+    printf("Swapping of two variable");
+    printf ("Enter the two numbers; ");
     scanf("%d %d",&a,&b);
     printf ("Before swapping:a=%d,b=%d\n",a,b);
       a=a+b;
